@@ -1,4 +1,4 @@
-# SpeXtral_type_classifier
+# SpeXtral_type_classifier [![DOI](https://zenodo.org/badge/614635530.svg)](https://zenodo.org/doi/10.5281/zenodo.10938839)
 
 Repository for spectral binaries analysis using random forest models
 
