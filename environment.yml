@@ -8,3 +8,4 @@ dependencies:
   - matplotlib
   - scikit-learn
   - seaborn
+  - jupyter  # or 'notebook' for the Jupyter notebook server
