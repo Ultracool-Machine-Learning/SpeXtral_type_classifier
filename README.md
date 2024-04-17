@@ -11,6 +11,6 @@ To activate the environment, run
 
 ```conda activate```
 
-The SPLAT Library is used to generate the dataset. Please refer to https://github.com/aburgasser/splat for its installation.
+The SPLAT Library is used to generate the dataset. However, it cannot be directly installed using conda. Please refer to https://github.com/aburgasser/splat for its installation.
 
 Note: The Parameters for RF and kNN can be found in the Jupyter Notebook. 
